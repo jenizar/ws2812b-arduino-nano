@@ -4,6 +4,7 @@ ws2812b rgb led strip on folding bike
 youtube video:
 
 
+
 materials:
 1. arduino nano
 2. led strip 1 m (60 led)
@@ -17,6 +18,7 @@ notes:
 2. don't connect tactile button to pin 5v arduino nano
 
 references:
+
 https://youtu.be/YDYNZKYUiRw
 
 ![alt text](https://github.com/jenizar/ws2812b-arduino-nano/blob/main/screenshot1.jpeg)
